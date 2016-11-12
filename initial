@@ -1,11 +1,40 @@
 <!DOCTYPE html>
-<html>
-<title>Apple</title>
-<body>
-</body>
-<header>
+<html lang="en">
+<head>
+  <link rel="icon" type="image/gif/png" href="favicon.png">
 
-//font awesome
+
+
+  <title>Apple</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+<header>
+  <nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <i class="fa fa-apple" aria-hidden="true"></i>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li><a href="#">Mac</a></li>
+      <li><a href="#">Ipad</a></li>
+      <li><a href="#">Iphone</a></li>
+      <li><a href="#">Watch</a></li>
+      <li><a href="#">TV</a></li>
+      <li><a href="#">Music</a></li>
+      <li><a href='#'>Support</a></li>
+    </ul>
+<i class="fa fa-search" aria-hidden="true"></i>
+<i class="fa fa-shopping-bag" aria-hidden="true"></i>
+  </div>
+</nav>
+
 //collapsing nav bar BOOTSTRAP
 
 
