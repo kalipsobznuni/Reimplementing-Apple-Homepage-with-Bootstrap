@@ -1,0 +1,28 @@
+{
+  "name": "reimplementing-apple-homepage-with-bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalipsobznuni/Reimplementing-Apple-Homepage-with-Bootstrap.git"
+  },
+  "author": "kalipsobznuni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalipsobznuni/Reimplementing-Apple-Homepage-with-Bootstrap/issues"
+  },
+  "homepage": "https://github.com/kalipsobznuni/Reimplementing-Apple-Homepage-with-Bootstrap#readme"
+}
